@@ -26,7 +26,7 @@
 - Contribute to open-source tools that empower advocacy
 
  🤝 Let's Connect
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/elizabeth-otieno-799653239/))
+- 💼 [LinkedIn] https://www.linkedin.com/in/elizabeth-otieno-799653239/
 - 📫 Reach me via GitHub Discussions or Issues on any of my repos!
 
 ✨ *Let’s turn data into action for a more sustainable and just world.*  
